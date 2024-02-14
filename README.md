@@ -13,5 +13,7 @@
     2• In a terminal, launch the receiver bin/recepteur, then, in another terminal, start the transmitte bin/emetteur.
     3• Check if the transfer was successful (result in folder fichiers/, the name of the transmitted file is specified in config.txt).
     4• Change the error and loss rate in config.txt and redo steps 2 and 3.
+
+To check the input and output file you can run the command ./check_files.
   
   
