@@ -39,6 +39,6 @@
       request for connexion(T_CONNECT), a transfer of a data unit (T_DATA) or a disconnection request (T_DISCONNECT). To check the input and output file you can run the command ./check_files.
 
 # CONTRIBUTIONS:
-  Contributions are welcome! If you'd like to contribute to this project you can send me a message to my discord account ( aak9870 ) .
+  Contributions are welcome! If you'd like to contribute to this project you can send me a message to my discord account ( aak9870 )  .
   
   
