@@ -1,0 +1,22 @@
+# Parametres de configuration
+#------------------------------
+
+# Fichiers pour application
+#---------------------------
+FICHIER_IN fichiers/in.txt
+FICHIER_OUT fichiers/out.txt
+
+# Initialisation reseau
+#------------------------
+# Emetteur
+PROBA_PERTE_E 0
+PROBA_ERREUR_E 0
+# Recepteur
+PROBA_PERTE_R 0
+PROBA_ERREUR_R 0
+# Pertes Connexion / Deconnexion
+# (0=pas de perte, 1=perte)
+PERTE_CON_REQ 0
+PERTE_CON_ACCEPT 0
+PERTE_CON_CLOSE 0
+PERTE_CON_CLOSE_ACK 0
