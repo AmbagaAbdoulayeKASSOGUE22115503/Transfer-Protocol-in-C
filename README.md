@@ -38,7 +38,7 @@
       vers_application_mode_c(). These two functions include an additional parameter compared to the previous version: the transport service requested or provided to the application layer. This service can be: a
       request for connexion(T_CONNECT), a transfer of a data unit (T_DATA) or a disconnection request (T_DISCONNECT). To check the input and output file you can run the command ./check_files.
 
-      #CONTRIBUTIONS:
-        Contributions are welcome! If you'd like to contribute to this project you can send me a message to my discord account ( aak9870 ) .
+#CONTRIBUTIONS:
+  Contributions are welcome! If you'd like to contribute to this project you can send me a message to my discord account ( aak9870 ) .
   
   
