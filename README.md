@@ -4,9 +4,10 @@
   This project aims to implement different data transfer methods, including the Stop-and-Wait with negative acknowledgment/unconnected mode method, the Stop-and-Wait ARQ/unconnected mode method, the Go-Back-N       ARQ/unconnected mode method, and the Go-Back-N ARQ/connected mode method. Each method is designed to ensure reliable and efficient data transfer in various contexts.
   
 # Installation:
-  1• Clone this repository to your local machine.
-  2• Ensure you have the required dependencies installed.
-  3• Compile the code according to the specific instructions for each transfer method.
+
+1• Clone this repository to your local machine.
+2• Ensure you have the required dependencies installed.
+3• Compile the code according to the specific instructions for each transfer method.
 
   # USAGE:
     1• make tdd(number of protocol); for example : make tdd1 for the protocol 1(Stop-and-Wait with negative acknowledgment/unconnected mode). This will generate the v1 protocol executables in the bin/ folder.
