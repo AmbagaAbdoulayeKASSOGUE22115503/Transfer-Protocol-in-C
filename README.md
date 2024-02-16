@@ -5,8 +5,8 @@
   
 # Installation:
 
-1• Clone this repository to your local machine.
-2• Ensure you have the required dependencies installed.
+1• Clone this repository to your local machine.\n
+2• Ensure you have the required dependencies installed.\n
 3• Compile the code according to the specific instructions for each transfer method.
 
   # USAGE:
