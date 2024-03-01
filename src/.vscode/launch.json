@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/KASSOGUE/Downloads/LicenceInfo/SR2/Réseaux/TP/tp-reseaux-sr2/src",
-      "program": "c:/Users/KASSOGUE/Downloads/LicenceInfo/SR2/Réseaux/TP/tp-reseaux-sr2/src/build/Debug/outDebug",
+      "cwd": "c:/Users/KASSOGUE/Downloads/MesProjetsEtCodes/Transfer-Protocol-in-C/src",
+      "program": "c:/Users/KASSOGUE/Downloads/MesProjetsEtCodes/Transfer-Protocol-in-C/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
